@@ -37,7 +37,7 @@ public class Contoh2 {
     static int inputNilaiInteger(String namaVariabel) {
         Scanner inputScanner = new Scanner(System.in);
         int nilaiInput;
-        System.out.println("Silakan input nilai untuk variabel " + namaVariabel);
+        System.out.println("Silahkan input nilai untuk variabel " + namaVariabel);
         nilaiInput = inputScanner.nextInt();
         return nilaiInput;
     }

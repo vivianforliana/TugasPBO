@@ -28,7 +28,7 @@ public class Contoh1 {
             System.out.println("\ttoo young to marry someone");
         }
         if (age < 35) {
-            System.out.println("\ttoo young to run for President RI");
+            System.out.println("\ttoo young to run for President Republic Indonesia");
             System.out.println("\t\t(How sad!)");
         }
         if (age >= 50) {
